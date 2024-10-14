@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-generated files
+.DS_Store  # macOS
+
+# IDEs and Editors
+.vscode/
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+
+# JavaScript
+*.min.js
+*.min.css
+.eslintcache
+*.tsbuildinfo
+
+# Miscellaneous
+*.bak
+*.zip
+*.7z
+*.tar.gz
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Directories
+/node_modules/
+/dist/
+
